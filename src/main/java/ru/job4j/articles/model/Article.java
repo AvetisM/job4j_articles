@@ -15,6 +15,7 @@ public class Article {
         this.text = text;
     }
 
+
     public int getId() {
         return id;
     }
